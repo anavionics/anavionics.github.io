@@ -3,12 +3,18 @@
 .sidebar {
   position: fixed;
   top: 0;
-  right: 0;
+  right: 0; /* fixes sidebar to right edge */
   /* left: 0; */
   width: 200px;
   height: 100%;
   background-color: #004000;
   padding-top: 20px;
+}
+
+/* leave space for sidebar */
+.content {
+  margin-right: 220px;
+  padding: 20px;
 }
 
 /* Remove bullet points */
