@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Welcome to Anavionics
+title: Anavionics
 ---
 
-Hi, I'm Manav — Masters mechanical engineer passionate about aerospace.  
-This is my personal site where I document my projects and journey.
+Manav Anjay | MEng Mechanical Engineering (University of Bath)
+I’m passionate about aerospace, especially aircraft systems, design, propulsion and anything that flies. This page is where I share my aerospace-focused projects, self-learning and professional journey.
