@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Anavionics
+title: Manav Anjay
 ---
 
-Manav Anjay   MEng Mechanical Engineering (University of Bath)
+Passionate about Aerospace MEng Mechanical Engineering (University of Bath)
 
-I’m passionate about aerospace, especially aircraft systems, design, propulsion and anything that flies. This page is where I share my aerospace-focused projects, self-learning and professional journey
+I’m passionate about aircraft systems, design, propulsion and anything that flies. This page is where I share my aerospace-focused projects, self-learning and professional journey
