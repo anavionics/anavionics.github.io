@@ -1,1 +1,46 @@
+<header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">anavionics</a>
+
+    <nav class="site-nav">
+      <details>
+        <summary>Menu</summary>
+        <ul class="dropdown">
+          <li><a href="{{ '/' | relative_url }}">Home</a></li>
+          <li><a href="{{ '/projects/' | relative_url }}">Projects</a></li>
+          <li><a href="{{ '/resume/' | relative_url }}">Résumé</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+        </ul>
+      </details>
+    </nav>
+  </div>
+</header>
+
+<style>
+  summary {
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  .dropdown {
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem;
+    background-color: #f2f2f2;
+    border-radius: 0.25rem;
+  }
+
+  .dropdown li {
+    margin: 0.25rem 0;
+  }
+
+  .dropdown a {
+    text-decoration: none;
+    color: #0366d6;
+  }
+
+  .dropdown a:hover {
+    text-decoration: underline;
+  }
+</style>
 
